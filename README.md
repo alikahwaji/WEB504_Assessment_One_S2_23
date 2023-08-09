@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Assessment Three 👋</h1>
+<h1 align="center">Welcome to Assessment One 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -20,14 +20,14 @@
 
 👤 **Ali Kahwaji**
 
-* :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
+* :e-mail: [Email] (Ali.Kahwaji@nmit.ac.nz)
 
 
 ## 🤝 Tutor Feedback
 
-Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
+Feedback, problems, and suggestions will be posted on the issues page! <br />Please visit the [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also consult the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ Assessment Instructions 
+## Assessment Guidelines
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
@@ -35,8 +35,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:-:|---|---|
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
-|:three:|You must write comments explaining each line in your code, use the src folder provided in the repo :flashlight:|:ballot_box_with_check:|
-|:four:|Copy the repo's Http url and paste it to your assessment dropbox with the zip folder of your assessment repo :inbox_tray:|:ballot_box_with_check:|
+|:three:|You must write comments explaining each line in your code; use the src folder provided in the repo :flashlight:|:ballot_box_with_check:|
+|:four:|Copy the repo's Http URL and paste it to your assessment dropbox with the zip folder of your assessment repo :inbox_tray:|:ballot_box_with_check:|
 |:five:|Write your notes using the assessment notes markdown file provided in the repo :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
@@ -47,13 +47,13 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment Three Description
+## :page_facing_up: Assessment One Description
 
-:arrow_right: Assessment Three Outline is provided in SDV503 Moodle. Follow the Assessment 
-              outline timeline and marking rubric
+:arrow_right: Assessment One Outline is provided in WEB504 Moodle. Follow the Assessment 
+              outline the timeline and marking rubric.
 
 
-:arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
+:arrow_right: You MUST follow the GitHub classroom repo instructions provided in the repo README file.
 
 ## :books: Resources 
 
@@ -64,9 +64,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :loudspeaker: IMPORTANT NOTE
 ```diff
-- DO NOT confuse yourself between class code activtiy repo submission (which is not marked) and Assessment repo submission (which is marked!). 
-+ However you still have to submit the class activity because this will show your commitmant in class. The Assessment submission is your homework. 
-# Class Activity MUST be a github repo and has a javascript file which will be your playground for your learning, it does not need to have a journal.
+- DO NOT confuse yourself between class code activity submission (not marked) and Assessment repo submission (which is marked!). 
++ But you must complete the class activity because this will show your commitment. The Assessment submission is your homework. 
+# Class Activity MUST be a GitHub repo with all necessary files and folders to use as your playground for learning; it does not need a journal.
 ! BOTH ARE COMPULSORY. 
 ```
 
